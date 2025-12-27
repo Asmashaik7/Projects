@@ -1,73 +1,113 @@
-HR Analytics: Employee Performance & Retention Analysis
-📌 Objective / Problem Statement
+📌 HR Analytics: Employee Performance & Retention Analysis
 
-The goal of this project is to analyze HR employee data to understand:
+This project analyzes HR employee data to identify performance patterns, retention behavior, and business insights for improving workforce productivity and stability.
 
-What factors influence employee performance?
+🚀 Objective
 
-Why do employees stay or leave the organization?
+To explore how factors like department, education, recruitment channel, awards, and training scores impact:
 
-Which patterns drive higher productivity and retention?
+Employee Performance (KPI Achievement)
 
-By examining variables such as age, tenure, department, performance ratings, training hours, and awards, this project aims to identify insights that help improve employee engagement and reduce attrition.
+Retention & Service Duration
 
-📊 Key Questions to Explore
+Hiring Quality & Workforce Stability
 
-Which departments show the highest/lowest performance?
+Training & Skill Development Needs
 
-Does tenure or age affect employee retention?
+📂 Dataset Information
+Detail	Value
+Source	Internshala HR Dataset
+Format	CSV
+Rows	17,415
+Columns	13
+Type	Employee Performance & Service Data
 
-How do training/skill development impact performance?
+Sample Features
 
-Are employees with awards or recognitions more likely to stay?
+department, education, recruitment_channel
 
-🧰 Tools & Technologies Used
-Category	Tools
-Programming	Python, Jupyter Notebook
-Libraries	Pandas, NumPy, Matplotlib, Seaborn
-Visualization	Matplotlib, Seaborn, (Power BI optional)
-Data Handling	CSV files, Excel
-📁 Project Structure
-HR-Analytics-Employee-Performance/
-│
-├── data/                # Dataset (will be added)
-├── notebooks/           # Jupyter notebooks (EDA, analysis)
-├── visuals/             # Plots, charts, dashboards
-├── reports/             # Summary, insights, recommendations
-└── README.md            # Documentation
+avg_training_score, no_of_trainings
 
-🚀 Project Workflow (Planned)
+awards_won, length_of_service
 
-Import & understand dataset
+KPIs_met_more_than_80 (Performance Target Indicator)
 
-Clean and preprocess data
+🛠️ Tools & Technologies Used
 
-Exploratory Data Analysis (EDA)
+Python (Pandas, Matplotlib)
 
-Performance trend analysis
+Jupyter Notebook
 
-Retention / attrition pattern evaluation
+Data Cleaning & Preprocessing
 
-Visualizations & business insights
+Univariate, Bivariate EDA
 
-Summary + actionable recommendations
+Groupby, Crosstab, Percentage Analysis
 
-📌 Current Status
+📊 Key Insights
+Performance
 
-Work in Progress – Phase 1 (EDA Started)
+Only ~35% employees meet KPI expectations.
 
-Project setup completed
+Referral hiring shows 53% KPI success, the highest among recruitment channels.
 
-README, folders created
+More trainings ≠ better performance → Training quality matters more than quantity.
 
-Dataset review in progress
+Retention
 
-🎯 Expected Deliverables
+Operations & Procurement have the highest retention (6+ years).
 
-Employee performance dashboards
+High performers & award winners leave earlier → recognition but weak retention strategy.
 
-Retention trend analysis
+Legal, R&D & Analytics show lower retention → potential workload/role mismatch.
 
-Insights + business recommendations
+Education & Performance
 
-Final HR Analytics report
+Masters stay the longest (~7.3 years) but do not always perform the best.
+
+Below-secondary perform decently but leave early (~1.7 years).
+
+Bachelors form the largest employee base with average performance + retention.
+
+📈 Visualizations Included
+
+KPI Achievement Distribution
+
+KPI vs Recruitment Channel
+
+Retention by Department
+
+Performance vs Training Score
+
+Retention by Education Level
+
+(Charts created using Matplotlib)
+
+🧭 Recommendations for HR Strategy
+Performance Improvement
+
+Focus on skill-based training for low-score employees (<60 score range)
+
+Priority learning support for Sales & Marketing, Legal, and R&D teams
+
+Retention & Engagement
+
+Provide career pathways for high performers to reduce early exits
+
+Link awards with incentives, promotions, and development programs
+
+Hiring Strategy
+
+Increase referral hiring for quality workforce
+
+Recheck screening process in “Other” recruitment channels
+
+📌 Final Conclusion
+
+This analysis shows that:
+
+Performance depends on skill alignment, not just education.
+Retention depends on opportunity & growth, not just experience.
+
+The organization recognizes performance but doesn’t fully retain it.
+Improving training quality, reward structure, and career path clarity will increase both KPI success and employee loyalty.

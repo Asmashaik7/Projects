@@ -85,3 +85,8 @@ All database setup scripts and analytical SQL queries are included in this proje
 **🧠 Key Takeaway**
 
 This project strengthened my ability to analyze real-world relational data using SQL Server (T-SQL) and improved my confidence in writing queries that support business-driven decision making.
+
+**📝 Note**
+
+The Chinook database schema and data were provided as part of training materials.  
+This project focuses on SQL Server (T-SQL)–based data analysis, query design, and insight generation using the given dataset.

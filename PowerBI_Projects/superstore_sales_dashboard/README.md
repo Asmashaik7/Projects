@@ -24,7 +24,7 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 ---
 
 ## 🖼 Dashboard Preview
-<img src="Supersales_dashboard2.png" alt="Dashboard Preview" width="600">
+<img src="superstores_sales_dashboard_image.png" alt="Dashboard Preview" width="600">
 
 ---
 

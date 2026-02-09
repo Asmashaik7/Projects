@@ -24,12 +24,12 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 ---
 
 ## 🖼 Dashboard Preview
-<img src="superstores_sales_dashboard_image.png" alt="Dashboard Preview" width="600">
+<img src="images/superstores_sales_dashboard_image.png" alt="Dashboard Preview" width="600">
 
 ---
 
 ## 🔮 Sales Forecast (15 Days)
-<img src="superstores_sales_forecasting_image.png" alt="15 days Sales forecasting Preview" width="600">
+<img src="images/superstores_sales_forecasting_image.png" alt="15 days Sales forecasting Preview" width="600">
 
 
 ---

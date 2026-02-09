@@ -28,6 +28,12 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 
 ---
 
+## 🔮 Sales Forecast (15 Days)
+<img src="superstores_sales_forecasting_image.png" alt="15 days Sales forecasting Preview" width="600">
+
+
+---
+
 ## 🚀 Dashboard Capabilities
 - **Geographical Analysis:** Visualized sales and profit distribution by state using map visuals.  
 - **Regional Performance:** Interactive filters for Central, East, South, and West regions.  
@@ -47,3 +53,12 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 - KPI Design  
 - Time-Series Forecasting  
 - Business Intelligence & Storytelling
+
+---
+
+---
+
+## 📈 Business Impact
+This dashboard helps business users track revenue and profitability trends, identify high-performing categories and regions, and monitor shipping efficiency. The forecasting capability supports short-term planning and proactive decision-making.
+
+

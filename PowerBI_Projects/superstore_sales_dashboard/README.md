@@ -1,13 +1,13 @@
-# 📊 Superstore Sales Dashboard
+#  Superstore Sales Dashboard
 
 ---
 
-## 📌 Overview
+##  Overview
 Designed and developed an interactive Power BI dashboard to analyze sales performance, profitability, customer segments, and regional trends. The solution enables stakeholders to monitor KPIs, identify growth opportunities, and evaluate operational efficiency through dynamic and drillable visuals.
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - **Source:** Superstore retail dataset  
 - **Records:** ~22,000 transactions  
 - **Time Period:** Multi-year sales history  
@@ -15,7 +15,7 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 
 ---
 
-## 📊 Key KPIs
+##  Key KPIs
 - **Total Sales:** $1.57M  
 - **Total Profit:** $175K  
 - **Total Orders:** 22K  
@@ -23,18 +23,18 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 <img src="images/superstores_sales_dashboard_image.png" alt="Dashboard Preview" width="600">
 
 ---
 
-## 🔮 Sales Forecast (15 Days)
+##  Sales Forecast (15 Days)
 <img src="images/superstores_sales_forecasting_image.png" alt="15 days Sales forecasting Preview" width="600">
 
 
 ---
 
-## 🚀 Dashboard Capabilities
+##  Dashboard Capabilities
 - **Geographical Analysis:** Visualized sales and profit distribution by state using map visuals.  
 - **Regional Performance:** Interactive filters for Central, East, South, and West regions.  
 - **Year-over-Year Trends:** Compared monthly sales across 2019 and 2020 to detect seasonality and growth patterns.  
@@ -46,7 +46,7 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 
 ---
 
-## 🛠 Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 - Power BI  
 - DAX  
 - Data Modeling  
@@ -56,9 +56,7 @@ Designed and developed an interactive Power BI dashboard to analyze sales perfor
 
 ---
 
----
-
-## 📈 Business Impact
+##  Business Impact
 This dashboard helps business users track revenue and profitability trends, identify high-performing categories and regions, and monitor shipping efficiency. The forecasting capability supports short-term planning and proactive decision-making.
 
 
